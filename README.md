@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aggreybosire?tab=repositories](https://github.com/aggreybosire?tab=repositories)
 
-- 📝 I regulary write articles on [aggreybosire.com/blog](aggreybosire.com/blog)
+- 📝 I regulary write articles on [aggreybosire.github.io](aggreybosire.github.io)
 
 - 💬 Ask me about **Pytorch, Deep Graph Library(DGL), Python**
 
