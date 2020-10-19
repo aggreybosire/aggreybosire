@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [flowtron lightning](https://github.com/aggreybosire/Flowtron_Lightning)
 
-- 🌱 I’m currently learning **Speech sysnthesis, neural rendering, NLP, Generative models**
+- 🌱 I’m currently learning **Speech sysnthesis, Neural rendering, NLP, Generative models, Flutter(ios/android)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aggreybosire?tab=repositories](https://github.com/aggreybosire?tab=repositories)
 
